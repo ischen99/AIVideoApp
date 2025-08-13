@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { scrollbar-gutter: stable both-edges; }
+html, body { height: 100%; }
+body { overflow-y: scroll; background:#fff; color:#0f172a; }
